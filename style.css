@@ -173,7 +173,7 @@ input{
     height: 100%;
     clear: both;
     display: block;
-  
+  height: 300px;
     
 }
 textarea{
